@@ -134,7 +134,7 @@ private
   end
 
   def system_paths
-    "/usr/local/bin:/usr/bin:/bin"
+    "../../bin:/usr/local/bin:/usr/bin:/bin"
   end
 
   # the relative path to the bundler directory of gems
